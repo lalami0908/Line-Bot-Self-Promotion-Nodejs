@@ -13,11 +13,11 @@ ID: @644dqvks
 - 1. 自我介紹
 - 2. 經歷
 - 隨意輸入貼圖回傳貼圖
-- 隨意輸入圖片回傳狗狗(200/400)圖片
+- 隨意輸入圖片回傳狗狗(status 200/ status 400)圖片
 
 #### 使用套件
 NodeJs、Express、
-[Line bot sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs)、
+[Line bot sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs)
 
 
 #### 備註
